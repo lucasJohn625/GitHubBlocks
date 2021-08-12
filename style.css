@@ -1,0 +1,41 @@
+.container{
+    width: 800px;
+    padding: 20px;
+   
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    text-decoration: underline;
+}
+
+img.octocat{
+    height:300px;
+}
+
+.Row1{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: purple;
+    margin: 40px;
+    
+}
+.Row2{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 40px;
+    padding: 40px;
+    background-color: royalblue;
+}
+.Row3{
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin: 40px;
+}
+p{
+    text-align: center;
+}
